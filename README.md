@@ -98,45 +98,46 @@
 </table>
 
 ## Skills
-    <table>
-        <tr>
-            <td>
-                <ul>
-                    <li>
-                        Writing autotests on Typescript and Java
-                    </li>
-                    <li> Applying test patterns: PageObject</li>
-                    <li> Applying development patterns: Factory method, Abstract factory, Builder etc )</li>
-                    <li> Git skills</li>
-                    <li> Postman skills: work with variables, collection runner, writing tests, applying snippets</li>
-                    <li> Swagger</li>
-                    <li> Charles proxy (catch request, substitution of values)</li>
-                    <li> SQL skills: select, like, join, update, insert</li>
-                    <li> HTML, CSS</li>
-                    <li> Work with DOM</li>
-                    <li> Wirk with logging system: Kibana, GrayLog</li>
-                    <li> Work with business models in camunda</li>
-                    <li> CI/CD skills: setting and run pipeline in TeamCity</li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                <li> Написание автотестов на Typescript и Java, используя фрейворки Playwright, CodeceptJS.</li>
-    <li> Применение паттернов тестирования: PageObject</li>
-    <li> Применение паттернов разработки (фабричный метод, абстрактная фабрика, строитель и т.д.)</li>
-    <li> Навыки работы с git</li>
-    <li> Postman(работа с переменными, collection runner, написание тестов, работа со сниппетами)</li>
-    <li> Swagger</li>
-    <li> Charles proxy(перехват запросов, подставка своих значений)
-    <li> Работа с базой данных (postgreSQL)</li>
-    <li> SQL (select, like, join, group by, update, insert)</li>
-    <li> Знания HTML, CSS</li>
-    <li> Работа с DOM-деревом</li>
-    <li> Опыт работы с системами логирования (Kibana, GrayLog)</li>
-    <li> Работа с моделью БП в camunda</li>
-    <li> Навыки работы с гитом</li>
-    <li> Тимсити(запуск прогонов, несложная настройка конфигураций)</li>
-                </ul>
-            </td>
-        </tr>
-    </table>
+
+<table>
+    <tr>
+        <td>
+            <ul>
+                <li>
+                    Writing autotests on Typescript and Java
+                </li>
+                <li> Applying test patterns: PageObject</li>
+                <li> Applying development patterns: Factory method, Abstract factory, Builder etc )</li>
+                <li> Git skills</li>
+                <li> Postman skills: work with variables, collection runner, writing tests, applying snippets</li>
+                <li> Swagger</li>
+                <li> Charles proxy (catch request, substitution of values)</li>
+                <li> SQL skills: select, like, join, update, insert</li>
+                <li> HTML, CSS</li>
+                <li> Work with DOM</li>
+                <li> Wirk with logging system: Kibana, GrayLog</li>
+                <li> Work with business models in camunda</li>
+                <li> CI/CD skills: setting and run pipeline in TeamCity</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+            <li> Написание автотестов на Typescript и Java, используя фрейворки Playwright, CodeceptJS.</li>
+<li> Применение паттернов тестирования: PageObject</li>
+<li> Применение паттернов разработки (фабричный метод, абстрактная фабрика, строитель и т.д.)</li>
+<li> Навыки работы с git</li>
+<li> Postman(работа с переменными, collection runner, написание тестов, работа со сниппетами)</li>
+<li> Swagger</li>
+<li> Charles proxy(перехват запросов, подставка своих значений)
+<li> Работа с базой данных (postgreSQL)</li>
+<li> SQL (select, like, join, group by, update, insert)</li>
+<li> Знания HTML, CSS</li>
+<li> Работа с DOM-деревом</li>
+<li> Опыт работы с системами логирования (Kibana, GrayLog)</li>
+<li> Работа с моделью БП в camunda</li>
+<li> Навыки работы с гитом</li>
+<li> Тимсити(запуск прогонов, несложная настройка конфигураций)</li>
+            </ul>
+        </td>
+    </tr>
+</table>
